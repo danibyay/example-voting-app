@@ -3,6 +3,12 @@ Example Voting App
 
 A simple distributed application running across multiple Docker containers.
 
+
+##Command by me
+--------------
+
+> docker-compose -f docker-compose-daniela.yml up
+
 Getting started
 ---------------
 
